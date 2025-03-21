@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hammad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **React,Python**
+- 🌱 I’m currently learning **MERN,Python**
 
 - 📫 How to reach me **maad78150@gmail.com**
 
